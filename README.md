@@ -1,120 +1,30 @@
-## Nisium
+### Hey there 👋 We’re Nisium
+Design-driven web agency crafting clean, scalable websites for businesses.
 
-<p align="left">
-  <strong>Design-driven web agency</strong><br/>
-  Clean, reliable, and scalable digital products for businesses.
-</p>
-
-#### About
-Nisium is a web agency focused on building structured, maintainable, and visually clear digital experiences.
-We primarily work with **Webflow** for production-ready websites, while also designing, prototyping, and supporting projects using modern web tools and frameworks when needed.
-Our approach is simple: **clarity, structure, and long-term maintainability**.
+We care about layout, hierarchy, and systems — not noise.  
+Most of our work lives in **Webflow**, supported by modern tooling when needed.
 
 ---
 
-## What We Do
+###### Tools & Platforms
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=flat)
+![Lumos Framework](https://img.shields.io/badge/Lumos_Framework-c4fa50?style=flat)
+![Finsweet](https://img.shields.io/badge/Finsweet-6B7280?style=flat)
+![Memberstack](https://img.shields.io/badge/Memberstack-2F80ED?style=flat)
+![Smootify](https://img.shields.io/badge/Smootify-F97316?style=flat)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat)
 
-We deliver end-to-end web solutions with a strong design foundation:
+#### What we do
+→ Design and build Webflow websites  
+→ Create scalable no-code systems  
+→ Structure CMS-first experiences  
+→ Redesign and simplify existing products  
+→ Integrate tools without complexity  
 
-- Webflow website development  
-- Landing pages and marketing websites  
-- Website redesigns and migrations  
-- Webflow CMS architecture and content modeling  
-- Memberstack integrations (auth, gated content, dashboards)  
-- Advanced CMS logic using Finsweet  
-- Performance and structure optimization  
-- Light, purposeful custom code  
+`We focus on clarity, structure, and long-term usability.`
 
-> We design systems first, then build pages.
 
----
-
-## Design Philosophy
-
-Our work is guided by a few core principles:
-
-- Clear visual hierarchy  
-- Strong layouts and spacing  
-- Readable, consistent typography  
-- Design systems over one-off pages  
-- Function over decoration  
-
-Every design choice serves usability and scalability.
-
----
-
-## Tools & Technologies
-
-We use a pragmatic and modern stack to support both design and development:
-
-- **Webflow**
-- **Visual Studio Code**
-- **Tailwind CSS**
-- **JavaScript**
-- **HTML & CSS**
-- **Finsweet**
-- **Memberstack**
-- **Git & GitHub**
-
-Tools are selected to support design quality and long-term maintainability.
-
----
-
-## Webflow Cloneables
-
-A small selection of design systems and components we share publicly.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Minimal CMS Layout</h3>
-      <p>
-        A clean, scalable CMS structure for marketing and content-driven websites.
-      </p>
-      <p>
-        <a href="https://webflow.com/cloneable-link-1" target="_blank">
-          View Cloneable →
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Landing Page System</h3>
-      <p>
-        A reusable landing page layout focused on hierarchy, spacing, and conversion.
-      </p>
-      <p>
-        <a href="https://webflow.com/cloneable-link-2" target="_blank">
-          View Cloneable →
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-## This Repository
-
-This GitHub space is used to share:
-
-- Design-aware components and layout patterns  
-- CMS structures and logic examples  
-- Utilities and small JavaScript snippets  
-- Internal tools used across projects  
-- Technical references from real-world work  
-
-Everything published here reflects how we actually work.
-
----
-
-## Contact
-
-For collaborations or project inquiries:
-
-**Email:** info@nisium.com
-
----
-
-## License
-
-All content in this repository is provided for educational and reference purposes unless stated otherwise.
