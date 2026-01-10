@@ -1,18 +1,13 @@
-# Nisium
+## Nisium
 
 <p align="left">
   <strong>Design-driven web agency</strong><br/>
   Clean, reliable, and scalable digital products for businesses.
 </p>
 
----
-
-### Overview
-
+#### About
 Nisium is a web agency focused on building structured, maintainable, and visually clear digital experiences.
-
 We primarily work with **Webflow** for production-ready websites, while also designing, prototyping, and supporting projects using modern web tools and frameworks when needed.
-
 Our approach is simple: **clarity, structure, and long-term maintainability**.
 
 ---
