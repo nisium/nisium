@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bio.nisium.it/"><img src="https://img.shields.io/badge/Website-bio.nisium.it-000000?style=flat" alt="Website"/></a>
+  <a href="https://nisium.it/"><img src="https://img.shields.io/badge/Website-bio.nisium.it-000000?style=flat" alt="Website"/></a>
   <a href="https://www.linkedin.com/company/nisiumagency/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/nisium.it/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://www.tiktok.com/@nisium.it"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" alt="TikTok"/></a>
